@@ -1,14 +1,9 @@
 import * as S from './styles'
 
-type MainProps = {
-  title: string
-  description: string
-}
-
 const Main = ({
   title = 'React avançado',
-  description = 'TypseScript, ReactJS, NextJS e Styled Component'
-}: MainProps) => (
+  description = 'TypseScript, ReactJS, NextJS e Styled Component.'
+}) => (
   <S.Wrapper>
     <S.Logo
       src="/img/logo.svg"
