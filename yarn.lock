@@ -2846,7 +2846,6 @@
     util-deprecate "^1.0.2"
 
 "@storybook/core-common@6.4.20", "@storybook/core-events@6.4.20":
-  name "@storybook/core-events"
   version "6.4.20"
   resolved "https://registry.yarnpkg.com/@storybook/core-events/-/core-events-6.4.20.tgz#c442028a048bac38a60aabcacb5b215a1bc24b25"
   integrity sha512-POizjsPSA4SeBRKaIMpH/M2Mtw3ZPp1hCdIXTxK+S2M1j2rt3ZvNnG2y4IJM+dYjkL1Qwl3WJusa7qcDCS2+dA==
@@ -6653,10 +6652,10 @@ escodegen@^2.0.0:
   optionalDependencies:
     source-map "~0.6.1"
 
-eslint-config-prettier@^8.3.0:
-  version "8.3.0"
-  resolved "https://registry.yarnpkg.com/eslint-config-prettier/-/eslint-config-prettier-8.3.0.tgz#f7471b20b6fe8a9a9254cc684454202886a2dd7a"
-  integrity sha512-BgZuLUSeKzvlL/VUjx/Yb787VQ26RU3gGjA3iiFvdsp/2bMfVIWUVP7tjxtjS0e+HP409cPlPvNkQloz8C91ew==
+eslint-config-prettier@^8.5.0:
+  version "8.5.0"
+  resolved "https://registry.yarnpkg.com/eslint-config-prettier/-/eslint-config-prettier-8.5.0.tgz#5a81680ec934beca02c7b1a61cf8ca34b66feab1"
+  integrity sha512-obmWKLUNCnhtQRKc+tmnYuQl0pFU1ibYJQ5BGhTVB08bHe9wC8qUeG7c08dj9XX+AuPj1YSGSQIHl1pnDHZR0Q==
 
 eslint-plugin-jsx-a11y@^6.4.1:
   version "6.4.1"
