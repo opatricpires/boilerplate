@@ -1,8 +1,32 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+## Welcome ✌🏽
+If you're here you probably are searching for a next template and you find it. 🥳
+This is my template, I usually use it in my personal projects and some company projects.
+
+## What's inside 📦
+- Next.js
+- Typescript
+- Styled-components
+- Styled-icons
+- Styled-media-query
+- Storybook;
+- React-testing-library;
+- Jest;
+- Prettier;
+- Eslint;
+- Lint-staged;
+- Plop
 
 ## Getting Started
 
-First, run the development server:
+First, instal the dependencies:
+
+```bash
+npm install
+# or
+yarn install
+```
+
+Then, run the development server:
 
 ```bash
 npm run dev
